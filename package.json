@@ -16,7 +16,7 @@
   "author": "James",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.3.0",
+    "config": "^3.3.8",
     "nodejs-tail": "^1.1.0"
   }
 }
